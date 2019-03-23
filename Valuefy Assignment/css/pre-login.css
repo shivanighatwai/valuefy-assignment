@@ -1,0 +1,130 @@
+.navbar-custom {
+    color: #efefef;
+    background-color: #EFEFEF;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+body { padding-top: 20px; }
+
+.spacing {
+    position: relative;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.spacing-right {
+    position: relative;
+    padding-left: 500px;
+}
+
+.navbar-brand {
+  transform: translateX(-50%);
+  left: 50%;
+  position: absolute;
+  width: 150px; 
+  height: 100px
+}
+
+.color-text {
+  color: #8C8C8C;
+  font-size: 28px;
+}
+
+.color-text-small {
+  color: #8C8C8C;
+  font-size: 10px;
+}
+
+p { 
+   margin:-5px
+}
+
+.color-text-black {
+  color: #616161;
+  font-size: 28px;
+}
+
+.color-text-small-dark {
+  color: #616161;
+  font-size: 12px;
+}
+
+.halves-circle{
+  background: #fff;
+  height: 200px;
+  width: 200px;
+  border: 15px solid;
+  border-radius: 50%;
+  border-color: #425B77 #425B77 #13BC9C #13BC9C;
+  transform: rotate(45deg);
+  z-index=100;
+}
+
+.circle-text {
+    position: absolute;
+    display: table-cell;
+    height: 160px;
+    width: 160px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    background: ;
+    color: #fff;
+    bottom: 130px;
+    z-index=120; 
+    font-size: 24px;
+}
+
+.green-color-text {
+    color: #13BC9C;
+}
+
+.blue-color-text {
+    color: #425B77;
+}
+
+.row-styler {
+    border: 1px solid;
+    height: 70px;
+
+}
+
+.color-text-medium {
+  color: #8C8C8C;
+  font-size: 12px;
+}
+
+.small-circle {
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background: #14A388;
+    margin-left: 12px;
+    margin-top: 20px;
+}
+
+.box-style {
+    color: #ffffff;
+    background-color: #14A388;
+    font-size: 17px;
+    height: 70px;
+    width: 90px;
+}
+
+.box-style {
+    color: #ffffff;
+    background-color: #14A388;
+    font-size: 17px;
+    height: 70px;
+    width: 90px;
+}
+
+.green-button-style {
+    color: #ffffff;
+    background-color: #12D6B0;
+    font-size: 17px;
+    height: 40px;
+    width: 200px;
+}
